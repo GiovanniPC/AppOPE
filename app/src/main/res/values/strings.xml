@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">IVolunteer Application</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_config">Configurações</string>
+    <string name="action_logout">Sair</string>
+    <string name="action_login">Acessar</string>
+    <string name="login">Login</string>
+    <string name="Nickname">Nickname</string>
+    <string name="Password">Password</string>
+    <string name="facalogin">Faça seu Login</string>
+    <string name="logo">TwoRedPandas</string>
+
+
+    <string name="ABOUT">
+          Nós do TwoRedPandas, queremos montar o melhor sistema para ajudar ONGs e Vóluntarios.
+        Ajudando ambos a encontrarem pessoas para ajudar e doar, sendo com material ou ajuda.
+        Estamos aqui para facilitar a vida de todos e em poder ajudar ainda mais a humanidade.
+    </string>
+    <string name="ABOUT2">
+        Nosso foco é facilitar a comunicação entre o interessado e o interesse, seja entre voluntário para ONG ou de ONG para voluntário.
+        Queremos fazer com que as pessoas consigam pesquisar e achar aquilo que elas realmente querem fazer para ajudar o mundo, seja de forma social ou ambiental.
+        Vamos fazer de tudo para ajudar o mundo a virar um lugar melhor onde as pessaos possam realmente se ajudar e fazer a diferença!
+    </string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="sobre">Sobre nós</string>
+    <string name="Home">Pagina Inicial</string>
+    <string name="ong">ONGs</string>
+    <string name="ong2">ONGs</string>
+    <string name="voluntario">Voluntário</string>
+    <string name="ongpagina">Abaixo escolha a área de atuação da ONG para ver as ONGs do mesmo.</string>
+    <string name="volunteerpagina">Abaixo escolha a área de atuação do Voluntario para ver os Voluntario do mesmo.</string>
+
+    <string name="nomevo">Nome:</string>
+    <string name="criador">Fundador:</string>
+    <string name="descricao">Descrição:</string>
+    <string name="action_adicionar">Adicionar Ong</string>
+    <string name="nossahistoria">Nossa História:</string>
+    <string name="nossamissao">Missão e Visão:</string>
+    <string name="bemvindo">Bem vindo ao sistema IVolunteer, aqui você ONG/Voluntario pode se conectar com a outra parte para conseguir fazer um bem maior ao próximo.</string>
+    <string name="tipoOV">Caso queria ver ONGs/Voluntários, escolha qual uma das opções para ser direcionado:</string>
+    <string name="saberOV">Caso tenha interesse em saber mais sobre ser um Voluntário ou sobre ser uma ONG, escolha uma das opções abaixo
+    para ser direcionado: </string>
+</resources>
